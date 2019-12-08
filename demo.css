@@ -1,0 +1,20 @@
+.highlight pre { background-color: #1e1e1e }
+.highlight .language-powershell .a { color: #DCDCAA } /*.Attribute */
+.highlight .language-powershell .c { color: #DCDCAA } /* Command */
+.highlight .language-powershell .ca { color: #D4D4D4 } /* CommandArgument */
+.highlight .language-powershell .co { color: #6A9955 } /* Comment */
+.highlight .language-powershell .cp { color: #D4D4D4 } /* CommandParameter */
+.highlight .language-powershell .ge { color: #D4D4D4 } /* GroupEnd */
+.highlight .language-powershell .gs { color: #D4D4D4 } /* GroupStart */
+.highlight .language-powershell .k { color: #569CD6 } /* Keyword */
+.highlight .language-powershell .l { color: #C8C8C8 } /* LoopLabel */
+.highlight .language-powershell .lc { color: #D4D4D4 } /* LineContinuation */
+.highlight .language-powershell .m { color: #D4D4D4 } /* Member */
+.highlight .language-powershell .n { color: #B5CEA8 } /* Number */
+.highlight  .language-powershell.nl { color: #cccccc } /* NewLine */
+.highlight .language-powershell .o { color: #D4D4D4 } /* Operator */
+.highlight .language-powershell .s { color: #CE9178 } /* String */
+.highlight .language-powershell .ss { color: #D4D4D4 } /* StatementSeparator */
+.highlight .language-powershell .t { color: #569CD6 } /* Type */
+.highlight .language-powershell .v { color: #9CDCFE } /*.Variable */
+.highlight  .language-powershell.w { color: #cccccc } /* insignificant whitespace */
